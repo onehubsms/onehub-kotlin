@@ -1,5 +1,5 @@
 # Onehub Kotlin Library
-```
+```kotlin
 import java.io.IOException
 import okhttp3.MediaType.Companion.toMediaType
 import okhttp3.OkHttpClient
